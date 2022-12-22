@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Verano",
+        "price": 500,
+        "foto": "./fotos/verano.jpg",
+        "id": 1
+    },
+    {
+        "title": "Mandalas",
+        "price": 1000,
+        "foto": "./fotos/carrou.jpg",
+        "id": 2
+    },
+    {
+        "title": "Chaleco",
+        "price": 2500,
+        "foto": "./fotos/felipe.jpg",
+        "id": 3
+    },
+    {
+        "title": "Saco",
+        "price": 5000,
+        "foto": "./fotos/geminis.jpg",
+        "id": 4
+    },
+]
