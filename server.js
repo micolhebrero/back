@@ -1,6 +1,7 @@
 import express from "express";
 import router from "./routes/index.js";
 
+
 export const admin = false;
 
 const app = express();
